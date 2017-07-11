@@ -21,14 +21,14 @@
       {{ if (eq (trim .Site.Params.provider " " | lower) "github") | and (isset .Site.Params "repo_url") }}
         <ul class="repo">
           <li class="repo-download">
-            <a href="{{ .Site.Params.repo_url }}/archive/master.zip" target="_blank" title="Download" data-action="download">
+            <a title="讨论群" data-action="download">
               <i class="material-icons">group_add</i> QQ Group
             </a>
           </li>
           <li class="repo-stars">
-            <a href="{{ .Site.Params.repo_url }}/stargazers" target="_blank" title="Stargazers" data-action="star">
+            <a title="评论" data-action="star">
               <i class="material-icons">comment</i> Issues
-              <span class="count">443</span>
+              <span class="count">0</span>
             </a>
           </li>
         </ul>
