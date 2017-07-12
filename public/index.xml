@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>前端小匠</title>
-    <link>https://192.168.1.190:1313/</link>
+    <link>https://fe-artisan.com/</link>
     <description>Recent content on 前端小匠</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
-	<atom:link href="https://192.168.1.190:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fe-artisan.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roadmap</title>
-      <link>https://192.168.1.190:1313/roadmap/</link>
+      <link>https://fe-artisan.com/roadmap/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/roadmap/</guid>
+      <guid>https://fe-artisan.com/roadmap/</guid>
       <description>Quo vadis? The port of the original Material theme has replicated nearly all of its features. A few are still missing but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
 Localization Currently, it is possible to collect all strings in a single place for easy customization. However, this only enables you to define all strings in a single language.</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>https://192.168.1.190:1313/license/</link>
+      <link>https://fe-artisan.com/license/</link>
       <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/license/</guid>
+      <guid>https://fe-artisan.com/license/</guid>
       <description>Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
 Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
@@ -35,10 +35,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     
     <item>
       <title>Getting started</title>
-      <link>https://192.168.1.190:1313/getting-started/</link>
+      <link>https://fe-artisan.com/getting-started/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/getting-started/</guid>
+      <guid>https://fe-artisan.com/getting-started/</guid>
       <description>Installation Installing Hugo Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. You just need to download the latest version. For more information read the official installation guides.
 Let&amp;rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:
 hugo version # Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+01:00  Installing Material Next, assuming you have Hugo up and running the hugo-material-docs theme can be installed with git:</description>
@@ -46,10 +46,10 @@ hugo version # Hugo Static Site Generator v0.15 BuildDate: 2016-01-03T12:47:47+0
     
     <item>
       <title>Adding content</title>
-      <link>https://192.168.1.190:1313/adding-content/</link>
+      <link>https://fe-artisan.com/adding-content/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/adding-content/</guid>
+      <guid>https://fe-artisan.com/adding-content/</guid>
       <description>Hello world Let&amp;rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace &amp;lt;section-name&amp;gt; with a general term that describes your document in detail.
 hugo new &amp;lt;section-name&amp;gt;/filename.md  Visitors of your website will find the final document under www.example.com/&amp;lt;section-name&amp;gt;/filename/.
 Since it&amp;rsquo;s possible to have multiple content files in the same section I recommend to create at least one index.</description>
@@ -57,10 +57,10 @@ Since it&amp;rsquo;s possible to have multiple content files in the same section
     
     <item>
       <title>自序</title>
-      <link>https://192.168.1.190:1313/</link>
+      <link>https://fe-artisan.com/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/</guid>
+      <guid>https://fe-artisan.com/</guid>
       <description>没有什么美术天分，却热衷表现自己的想法，看到简洁、优雅和高效的技术交互会发自内心的愉悦，这让我不由自主的向往设计。不会画画，不会音乐，我这辈子与艺术创作是没啥缘分的。有点小智商，加上会些依葫芦画瓢的本事，程序员的我，讲的自然是程序为主设计了。 By the way ，代码也有称为艺术的，不是吗。
 毕业后，没有留在大公司发展，在小公司混了六年，三十已过，彷徨不安。前面一直是用QT做人机开发，也接触了一些前端的知识，今年来系统自学前端，源于桌面系统表现力不及网页应用，且囊括不了手机客户端的交互需求。身在小公司，还不是软件型的小公司，软件相关的事都让给我包办，孤单而无助，唯有自助。
 对于未来，我已经迷茫很久了。没有经济基础，创业的梦想想就行了，养家糊口才是首要的。缺乏职业规划，过了激情滂湃的技术年龄，转行换工作是连勇气都没有的。目前只有维持现状，说不定哪天老板画的饼成真了呢。
@@ -69,10 +69,10 @@ Since it&amp;rsquo;s possible to have multiple content files in the same section
     
     <item>
       <title>索引</title>
-      <link>https://192.168.1.190:1313/contents/</link>
+      <link>https://fe-artisan.com/contents/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/contents/</guid>
+      <guid>https://fe-artisan.com/contents/</guid>
       <description>我在学习前端，觉得最受用的技能是， 英语阅读 。本站的文章虽然都是中文的，但一些重要的概念和措辞都源自于英文，给大家提个醒。
 一个简单的应用，从工具到架构，动不动就依赖成百上千个 NPM 包，要折腾起来时间永远不够用，但不折腾不行，除非放弃前端。重复造的轮子太多，选择性折腾尤为重要，这是我学习前端最大的感悟。
 最初我选择的是 Angular ，使用 Angular CLI 工具，感觉很顺手。但不足的是，缺乏可用的 UI 组件。一直关注 material2 组件库，直到目前连基础的树形容器都没有，又找不到替换的库，放弃了。后面又从入门到放弃用了一段时间的 Vue ，解释不清为什么。
@@ -83,10 +83,10 @@ Since it&amp;rsquo;s possible to have multiple content files in the same section
     
     <item>
       <title>使用 Ant Design 设计组件</title>
-      <link>https://192.168.1.190:1313/rk-antd/</link>
+      <link>https://fe-artisan.com/rk-antd/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://192.168.1.190:1313/rk-antd/</guid>
+      <guid>https://fe-artisan.com/rk-antd/</guid>
       <description>本文介绍在 rekit 项目中引入 Ant.D ，完成项目代码： rk-antd
  Ant design 项目在 github 上的 id 是 ant-design/ant-design ， Ant.D 不是其名字或代号，只是我发现用 Ant.D 指代这个项目很方便，就用上了。
  安装 Ant.D 模块 安装 Ant.D 模块只需要一条命令：
