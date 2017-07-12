@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rk-antds on 前端小匠</title>
-    <link>https://fe-artisan.com/rk-antd/</link>
+    <link>http://fe-artisan.com/rk-antd/</link>
     <description>Recent content in Rk-antds on 前端小匠</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
-	<atom:link href="https://fe-artisan.com/rk-antd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fe-artisan.com/rk-antd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>使用 Ant Design 设计组件</title>
-      <link>https://fe-artisan.com/rk-antd/</link>
+      <link>http://fe-artisan.com/rk-antd/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://fe-artisan.com/rk-antd/</guid>
+      <guid>http://fe-artisan.com/rk-antd/</guid>
       <description>本文介绍在 rekit 项目中引入 Ant.D ，完成项目代码： rk-antd
  Ant design 项目在 github 上的 id 是 ant-design/ant-design ， Ant.D 不是其名字或代号，只是我发现用 Ant.D 指代这个项目很方便，就用上了。
  安装 Ant.D 模块 安装 Ant.D 模块只需要一条命令：

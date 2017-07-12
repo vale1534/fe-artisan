@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contents on 前端小匠</title>
-    <link>https://fe-artisan.com/contents/</link>
+    <link>http://fe-artisan.com/contents/</link>
     <description>Recent content in Contents on 前端小匠</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
-	<atom:link href="https://fe-artisan.com/contents/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fe-artisan.com/contents/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>索引</title>
-      <link>https://fe-artisan.com/contents/</link>
+      <link>http://fe-artisan.com/contents/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://fe-artisan.com/contents/</guid>
+      <guid>http://fe-artisan.com/contents/</guid>
       <description>我在学习前端，觉得最受用的技能是， 英语阅读 。本站的文章虽然都是中文的，但一些重要的概念和措辞都源自于英文，给大家提个醒。
 一个简单的应用，从工具到架构，动不动就依赖成百上千个 NPM 包，要折腾起来时间永远不够用，但不折腾不行，除非放弃前端。重复造的轮子太多，选择性折腾尤为重要，这是我学习前端最大的感悟。
 最初我选择的是 Angular ，使用 Angular CLI 工具，感觉很顺手。但不足的是，缺乏可用的 UI 组件。一直关注 material2 组件库，直到目前连基础的树形容器都没有，又找不到替换的库，放弃了。后面又从入门到放弃用了一段时间的 Vue ，解释不清为什么。

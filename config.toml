@@ -1,4 +1,4 @@
-baseurl = "https://fe-artisan.com/"
+baseurl = "http://fe-artisan.com/"
 languageCode = "en-us"
 title = "前端小匠"
 theme = "hugo-material-docs"
