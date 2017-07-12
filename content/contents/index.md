@@ -14,8 +14,8 @@ weight: 20
 
 用 [dva](https://github.com/dvajs/dva) 套装的时候，发现了几个 bug ，在 Github 上提交了很久，还做了 PR ，但维护人员迟迟没有响应。后面学习到 router ，喜欢 react-router@4 的功能特性，但 dva 还停留在 react-router@2 。觉得还是 create-react-app 可靠，就转了过去，功能简单了一些，但学习目标更明确了。
 
-后来在 medium 读到关于 [rekit@2.0](https://medium.com/@nate_wang/rekit-2-0-next-generation-react-development-ce8bbba51e94) 的文章，觉得这正是我需要的工具。对比 create-react-app reject 后的项目结构，我发现 rekit 生产的项目组织架构真的很清晰，使用 rekit cli 和 rekit-portal 可以很方便地增删项目代码，自动化程度高，可伸缩性强，媲美我之前用过的 Angular CLI 工具。
+后来在 medium.com 读到关于 [rekit@2.0](https://medium.com/@nate_wang/rekit-2-0-next-generation-react-development-ce8bbba51e94) 的文章，觉得这正是我需要的工具。对比 create-react-app reject 后的项目结构，我发现 rekit 生产的项目组织架构真的很清晰，使用 rekit cli 和 rekit-portal 可以很方便地增删项目代码，自动化程度高，可伸缩性强，媲美我之前用过的 Angular CLI 工具。
 
-有了 rekit 这条线，学习 React 变得轻松了很多。
+选定 rekit 这条线，不再纠结选用哪个工具与功能库，也不用处心积虑地想一段代码放在哪个文件更好。对于初学者，最大裨益是解决你无处下手的痛点。
 
-[引入 Ant.D 样式](/using-rekit)
+[使用 Ant Design 设计组件](/rk-antd)

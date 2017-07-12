@@ -1,7 +1,7 @@
 ---
 date: 2016-03-09T00:11:02+01:00
 title: Getting started
-weight: 30
+weight: -30
 ---
 
 ## Installation

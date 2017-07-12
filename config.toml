@@ -55,6 +55,11 @@ googleAnalytics = ""
 	url    = "contents/"
 	weight = 20
 
+[[menu.main]]
+	name   = "使用 Ant.D 设计组件"
+	url    = "rk-antd/"
+	weight = 30
+
 [blackfriday]
 	smartypants	= true
 	fractions = true
