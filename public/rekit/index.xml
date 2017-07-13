@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rekits on 前端小匠</title>
+    <link>http://fe-artisan.com/rekit/</link>
+    <description>Recent content in Rekits on 前端小匠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Thu, 13 Jul 2017 11:33:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://fe-artisan.com/rekit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rekit 最佳实践</title>
+      <link>http://fe-artisan.com/rekit/</link>
+      <pubDate>Thu, 13 Jul 2017 11:33:11 +0800</pubDate>
+      
+      <guid>http://fe-artisan.com/rekit/</guid>
+      <description>在百花齐放，百家争鸣的今日前端，从不缺轮子，也不缺发动机、车身车架等。要造一辆协调美观，可靠高效的汽车，你需要一份最佳制造指南。 Rekit 就是这样一份指南，而不仅仅是制造工具。
+开个头占个位置，留以后写。</description>
+    </item>
+    
+    <item>
+      <title>使用 Ant Design 设计组件</title>
+      <link>http://fe-artisan.com/rekit/antd-style/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>http://fe-artisan.com/rekit/antd-style/</guid>
+      <description>本文介绍在 rekit 项目中引入 Ant.D ，完成项目代码： rekit-antd-style 。
+ Ant design 项目在 github 上的 id 是 ant-design/ant-design ， Ant.D 不是其名字或代号，只是我发现用 Ant.D 指代这个项目很方便，就用上了。
+ 安装 Ant.D 模块 安装 Ant.D 模块只需要一条命令：
+yarn add antd # or npm install --saved antd  完成后就可以在项目组件中引用 Ant.D 的组件了，比如引入 Button ：
+import { Button } from &#39;antd&#39;;  Ant.D 实现了丰富的基础组件，参考 官方文档 了解更多。
+引入 Ant.D 样式 参照 Ant.D 官方文档 ，要定制样式得引入一大堆的库，包括 less-vars-to-js 和 babel-plugin-import ，还要进行很多的配置 。配置完成后的好处是，按需引入组件样式，减小发送至浏览器的文件大小。但是在我看来，缺点更明显，给我的项目招致了不少的麻烦和复杂度。
+于是研究 Ant.D 的样式文件结构，准备强行引入，在项目中直接生产 Ant.</description>
+    </item>
+    
+  </channel>
+</rss>
