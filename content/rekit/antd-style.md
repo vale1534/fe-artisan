@@ -1,10 +1,9 @@
 ---
 date: 2016-03-09T20:08:11+01:00
 title: 使用 Ant Design 设计组件
-weight: 30
 ---
 
-本文介绍在 rekit 项目中引入 Ant.D ，完成项目代码： [rk-antd](https://github.com/wenris/rk-antd)
+本文介绍在 rekit 项目中引入 Ant.D ，完成项目代码： [rekit-antd-style](https://github.com/wenris/rekit-antd-style) 。
 
 > Ant design 项目在 github 上的 id 是 [ant-design/ant-design](https://github.com/ant-design/ant-design) ， Ant.D 不是其名字或代号，只是我发现用 Ant.D 指代这个项目很方便，就用上了。
 

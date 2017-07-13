@@ -18,4 +18,6 @@ weight: 20
 
 选定 rekit 这条线，不再纠结选用哪个工具与功能库，也不用处心积虑地想一段代码放在哪个文件更好。对于初学者，最大裨益是解决你无处下手的痛点。
 
-[使用 Ant Design 设计组件](/rk-antd)
+[Rekit 最佳实践](/rekit)
+
+[使用 Ant Design 设计组件](/rekit/antd-style)

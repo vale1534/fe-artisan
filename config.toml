@@ -56,9 +56,14 @@ googleAnalytics = ""
 	weight = 20
 
 [[menu.main]]
-	name   = "使用 Ant.D 设计组件"
-	url    = "rk-antd/"
+	name   = "Rekit 最佳实践"
+	url    = "rekit/"
 	weight = 30
+
+[[menu.main]]
+	name   = "使用 Ant.D 设计组件"
+	url    = "rekit/antd-style/"
+	weight = 31
 
 [blackfriday]
 	smartypants	= true
