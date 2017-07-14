@@ -21,13 +21,13 @@
       {{ if (eq (trim .Site.Params.provider " " | lower) "github") | and (isset .Site.Params "repo_url") }}
         <ul class="repo">
           <li class="repo-download">
-            <a title="讨论群" data-action="download">
-              <i class="material-icons">group_add</i> QQ Group
+            <a style="min-width: 80px" title="讨论群" data-action="download" href="/pages/qq-group">
+              <i class="material-icons">group_add</i> QQ 群
             </a>
           </li>
           <li class="repo-stars">
-            <a title="评论" data-action="star">
-              <i class="material-icons">comment</i> Issues
+            <a title="评论" data-action="star" href="https://github.com/wenris/fe-artisan/issues" target="_blank">
+              <i class="material-icons">comment</i> 评 论
               <span class="count">0</span>
             </a>
           </li>
@@ -44,7 +44,7 @@
 
         {{ if isset .Site.Params "author" }}
         <hr>
-        <span class="section">作者</span>
+        <span class="section">纯个人站点</span>
         
         <ul>
           {{ with .Site.Social.twitter }}

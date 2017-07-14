@@ -56,6 +56,24 @@ Since it&amp;rsquo;s possible to have multiple content files in the same section
     </item>
     
     <item>
+      <title>评论系统</title>
+      <link>http://fe-artisan.com/pages/comments/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://fe-artisan.com/pages/comments/</guid>
+      <description>本站利用 Github 的 Issues 功能提供评论与交流，请移步 wenris/fe-artisan/issues 参与。</description>
+    </item>
+    
+    <item>
+      <title>QQ 交流群</title>
+      <link>http://fe-artisan.com/pages/qq-group/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://fe-artisan.com/pages/qq-group/</guid>
+      <description>React 全栈技术交流群，致敬 Github 开源社区精神，限前端学习开发者加入，拒绝任何形式的商业广告及营销。加入后请更改群名片为 Github 账号，将定期清理违约成员。群号： 647605574 。</description>
+    </item>
+    
+    <item>
       <title>自序</title>
       <link>http://fe-artisan.com/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>

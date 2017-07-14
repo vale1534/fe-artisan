@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 前端小匠</title>
+    <link>http://fe-artisan.com/pages/</link>
+    <description>Recent content in Pages on 前端小匠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://fe-artisan.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>评论系统</title>
+      <link>http://fe-artisan.com/pages/comments/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://fe-artisan.com/pages/comments/</guid>
+      <description>本站利用 Github 的 Issues 功能提供评论与交流，请移步 wenris/fe-artisan/issues 参与。</description>
+    </item>
+    
+    <item>
+      <title>QQ 交流群</title>
+      <link>http://fe-artisan.com/pages/qq-group/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://fe-artisan.com/pages/qq-group/</guid>
+      <description>React 全栈技术交流群，致敬 Github 开源社区精神，限前端学习开发者加入，拒绝任何形式的商业广告及营销。加入后请更改群名片为 Github 账号，将定期清理违约成员。群号： 647605574 。</description>
+    </item>
+    
+  </channel>
+</rss>

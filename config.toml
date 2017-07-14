@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
 	# General information
 	author = "Wenris"
-	description = "A material design theme for documentations."
+	description = "React 全栈技术实践，选择性使用 ant-design 、 babel 、 rekit 、 redux 、 react-router 、 redux-saga 、 ……"
 	copyright = "Released under the MIT license"
 
 	# Repository
